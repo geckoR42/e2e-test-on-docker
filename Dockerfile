@@ -1,6 +1,6 @@
 FROM openjdk:latest
 
-MAINTAINER Yuta Yamori yuta.y@root42.jp
+MAINTAINER xxxxx xxxxxx xxxxx.x@xxxxx.xx
 ENV DEBIAN_FRONTEND=noninteractive
 ENV DEBCONF_NOWARNINGS=yes
 RUN apt-get update
